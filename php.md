@@ -10,6 +10,7 @@
 
 ## Code
 
+* Never change the `memory_limit` in the code
 * Avoid methods with more than 10 lines
 * Avoid classes with more than 100 lines
 * Avoid methods with more than 4 parameters

@@ -33,3 +33,7 @@
 * Order methods so that caller methods are earlier in the file than the methods they call
 * Order methods so that methods are as close as possible to other methods they call
 
+## Code
+
+* Never expose more to the public api than necessary, prefer `private` over
+  `protected` over `public`
