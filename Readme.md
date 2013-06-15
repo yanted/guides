@@ -6,6 +6,10 @@ Guides for coding web applications.
 
 Maintained by [Yanted](http://www.yanted.com).
 
+### Contributors
+
+* [Christian Heimke](http://github.com/ChristianHeimke)
+
 ## License
 
 The MIT License (MIT)

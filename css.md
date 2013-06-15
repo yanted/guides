@@ -12,6 +12,7 @@
 
 ## Code
 
+* Don't care about IE6 or IE7
 * Avoid duplication between selectors
 * No inline CSS
 * Don't use `#ids`

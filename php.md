@@ -17,6 +17,7 @@
 * No short tags
 * Use `CamelCase` for classes, `smallCamelCase` for variables and methods,
   `SCREAMING_SNAKE_CASE` for constants
+* Never use `_camelCase` or `_snake_case` for variables, not even in templates
 * Avoid unnecessary `return` and `else` statements
 * Prefer `array_key_exists` over `isset`
 * Prefer `require_once` over `include_once`
