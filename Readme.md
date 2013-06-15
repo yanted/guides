@@ -6,30 +6,20 @@ Guides for coding web applications.
 
 Maintained by [Yanted](http://www.yanted.com).
 
+## Terminology
+
+* "Avoid" means don't do it unless you have good reason
+* "Don't" means there's never a good reason
+* "Never" means if you do it, you'll end up in hell
+* "Prefer" indicates a better option and its alternative to watch out for
+* "Use" is a positive instruction which should be followed unless you have a good reason not to
+* Everything else means it's highly recommended
+
 ### Contributors
 
 * [Christian Heimke](http://github.com/ChristianHeimke)
 
 ## License
 
-The MIT License (MIT)
-
-Copyright (c) 2013 Yanted
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Copyright (c) 2013 Yanted. It is distributed under the [Creative Commons
+Attribution License](http://creativecommons.org/licenses/by/3.0).
