@@ -6,6 +6,8 @@
 * Break long lines after 80 characters, try to keep lines shorter in general
 * Delete trailing whitespace
 * Don't include spaces after `(`, `[` or before `]`, `)`
+* Use spaces around operators, after commas, after colons and semicolons, around
+  `{` and before `}`.
 * Don't misspell
 * Don't vertically align tokens on consecutive lines
 * If you break up an argument list, keep the arguments on their own lines and
@@ -14,8 +16,6 @@
   brace on its own line
 * Use an empty line between methods
 * Use newlines around multi-line blocks.
-* Use spaces around operators, after commas, after colons and semicolons, around
-  `{` and before `}`.
 * Use Unix-style line endings (`\n`).
 * Use uppercase for SQL key words and lowercase for SQL identifiers
 
